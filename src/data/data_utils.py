@@ -20,9 +20,6 @@ def load_data(args, split):
     elif args.data == 'arc':
         from data.arc import load_data as load_arc
         return load_arc(args, split=split)
-    elif args.data == 'piqa':
-        from data.piqa import load_data as load_piqa
-        return load_piqa(args, split=split)
     elif args.data == 'truthfulqa':
         from data.truthfulqa import load_data as load_truthfulqa
         return load_truthfulqa(args, split=split)
