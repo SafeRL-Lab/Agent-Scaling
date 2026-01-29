@@ -19,7 +19,7 @@ def get_instruction_suffix(args):
             return " Make sure to state your final answer in curly brackets at the very end of your response, just like: '{final answer: 123}'. Let's think step by step."
         else :
             return ' Make sure to state your final answer in curly brackets at the very end of your response, just like: "{final answer: 123}".'
-    elif args.data in ['hellaswag','pro_medicine','formal_logic','arc','piqa','truthfulqa','winogrande']:
+    elif args.data in ['hellaswag','pro_medicine','formal_logic','arc','truthfulqa','winogrande']:
         if args.bae :
             return ' Put your final answer in the form (X) at the end of your response.'
         elif args.cot :
