@@ -194,7 +194,7 @@ These scripts manage multi-GPU scheduling and run experiments across varying age
 | `--baseline_a` | Baseline A: neutral padding | `False` |
 | `--baseline_b` | Baseline B: shared persona | `False` |
 | `--solver` | Aggregation method: `vote` or `debate` | `vote` |
-| `--debate_rounds` | Number of debate rounds | 5 |
+| `--debate_rounds` | Number of debate rounds | 4 |
 | `--sparse` | Sparse communication topology | `False` |
 | `--centralized` | Centralized communication topology | `False` |
 | `--use_vllm` | Use vLLM backend | `False` |
