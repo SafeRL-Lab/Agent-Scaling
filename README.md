@@ -198,7 +198,7 @@ These scripts manage multi-GPU scheduling and run experiments across varying age
 | `--sparse` | Sparse communication topology | `False` |
 | `--centralized` | Centralized communication topology | `False` |
 | `--use_vllm` | Use vLLM backend | `False` |
-| `--temperature` | Sampling temperature | 1.0 |
+| `--temperature` | Sampling temperature | 0 |
 | `--top_p` | Nucleus sampling threshold | 0.9 |
 | `--load_in_4bit` | 4-bit quantization (bitsandbytes) | `False` |
 | `--load_in_8bit` | 8-bit quantization (bitsandbytes) | `False` |
