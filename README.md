@@ -15,7 +15,6 @@ This repository provides the codebase for studying **how scaling the number of h
 │   │   ├── arc.py                # ARC-Challenge / ARC-Easy
 │   │   ├── hellaswag.py          # HellaSwag
 │   │   ├── truthfulqa.py         # TruthfulQA
-│   │   ├── piqa.py               # Physical Intuition QA
 │   │   ├── winogrande.py         # WinoGrande
 │   │   ├── mmlu_pro_medicine.py  # MMLU-Pro Medicine
 │   │   └── mmlu_formal_logic.py  # MMLU Formal Logic
@@ -163,7 +162,7 @@ Extended metrics include:
 | Task Type | Datasets |
 |---|---|
 | Mathematical Reasoning | GSM8K |
-| Multiple Choice QA | ARC, HellaSwag, TruthfulQA, PIQA, WinoGrande |
+| Multiple Choice QA | ARC, HellaSwag, TruthfulQA, WinoGrande |
 | Domain-Specific | MMLU-Pro Medicine, MMLU Formal Logic |
 
 ## Running Large-Scale Experiments
