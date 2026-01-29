@@ -317,7 +317,7 @@ def main(args):
 
     if args.data in ['gsm8k']:
         evaluate = base_evaluate_gsm8k if args.bae else evaluate_gsm8k
-    elif args.data in ['hellaswag', 'pro_medicine', 'formal_logic', 'arc', 'piqa', 'truthfulqa', 'winogrande']:
+    elif args.data in ['hellaswag', 'pro_medicine', 'formal_logic', 'arc', 'truthfulqa', 'winogrande']:
         evaluate = base_evaluate_mcq if args.bae else evaluate_mcq
     else:
         raise NotImplementedError
