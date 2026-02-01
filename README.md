@@ -212,7 +212,7 @@ This project is for research purposes.
 If you use AgenticPay in your research, please cite:
 
 ```bibtex
-@misc{agenticpay2025,
+@misc{agentscaling2025,
     title={Understanding Agent Scaling in LLM-Based Multi-Agent Systems via Diversity},
     author={Yingxuan Yang, Chengrui Qu, Muning Wen, Laixi Shi, Ying Wen, Weinan Zhang, Adam Wierman, Shangding Gu},
     year = {2025},
