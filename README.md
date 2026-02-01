@@ -205,3 +205,19 @@ These scripts manage multi-GPU scheduling and run experiments across varying age
 ## License
 
 This project is for research purposes.
+
+
+## Citation
+
+If you use AgenticPay in your research, please cite:
+
+```bibtex
+@misc{agenticpay2025,
+    title={Understanding Agent Scaling in LLM-Based Multi-Agent Systems via Diversity},
+    author={Yingxuan Yang, Chengrui Qu, Muning Wen, Laixi Shi, Ying Wen, Weinan Zhang, Adam Wierman, Shangding Gu},
+    year = {2025},
+    publisher = {GitHub},
+    journal = {GitHub repository},
+    howpublished = {\url{https://github.com/SafeRL-Lab/Agent-Scaling}},
+}
+```
