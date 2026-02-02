@@ -209,7 +209,7 @@ This project is for research purposes.
 
 ## Citation
 
-If you use AgenticPay in your research, please cite:
+If you use Agent-Scaling in your research, please cite:
 
 ```bibtex
 @misc{agentscaling2025,
