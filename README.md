@@ -212,12 +212,10 @@ This project is for research purposes.
 If you use Agent-Scaling in your research, please cite:
 
 ```bibtex
-@misc{agentscaling2025,
-    title={Understanding Agent Scaling in LLM-Based Multi-Agent Systems via Diversity},
-    author={Yingxuan Yang, Chengrui Qu, Muning Wen, Laixi Shi, Ying Wen, Weinan Zhang, Adam Wierman, Shangding Gu},
-    year = {2025},
-    publisher = {GitHub},
-    journal = {GitHub repository},
-    howpublished = {\url{https://github.com/SafeRL-Lab/Agent-Scaling}},
+@article{yang2026understanding,
+  title={Understanding Agent Scaling in LLM-Based Multi-Agent Systems via Diversity},
+  author={Yang, Yingxuan and Qu, Chengrui and Wen, Muning and Shi, Laixi and Wen, Ying and Zhang, Weinan and Wierman, Adam and Gu, Shangding},
+  journal={arXiv preprint arXiv:2602.03794},
+  year={2026}
 }
 ```
