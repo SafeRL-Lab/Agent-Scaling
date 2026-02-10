@@ -1,4 +1,4 @@
-# Agent-Scaling: Multi-Agent Scaling with Heterogeneous LLM Ensembles
+# Understanding Agent Scaling in LLM-Based Multi-Agent Systems via Diversity
 
 This repository provides the codebase for studying **how scaling the number of heterogeneous LLM agents with diverse reasoning personas improves collective performance** through debate and voting mechanisms. We introduce the **K\* metric** (effective diversity) based on embedding eigenvalue entropy to quantify semantic diversity among agents, and show that persona-guided multi-agent collaboration yields consistent gains across reasoning benchmarks.
 
